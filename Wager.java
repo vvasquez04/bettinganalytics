@@ -10,7 +10,6 @@ public class Wager extends Activity {
     public int odds;
     public LocalDateTime clearDate;
 
-
     public static void main(String[] args) {
 
     }
